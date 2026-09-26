@@ -1,0 +1,6 @@
+{
+  "bad_min_error_code": "E_BAD_MIN_RUN",
+  "empty_error_code": "E_EMPTY_INPUT",
+  "min_run": 3,
+  "values": [7, 7, 7, 7, 3, 5, 5, 9, 9, 9]
+}
